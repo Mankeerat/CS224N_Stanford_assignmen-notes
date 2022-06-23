@@ -1,4 +1,4 @@
-Lecture 1 (Intro to WordVectors) -
+# Lecture 1 (Intro to WordVectors) -
 
 (Language is a glorious chaos). Single biggest achievement - GPT-3. \...
 how it predict words WOAH. translating human languages to SQL. GPT-3
